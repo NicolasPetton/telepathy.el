@@ -1,0 +1,3 @@
+* telepathy.el
+
+Provides access to [[http://telepathy.freedesktop.org/wiki/][Telepathy]] contacts, accounts and status from Emacs.
